@@ -143,7 +143,7 @@ pr-run-mode = "plan"
 # Whether to install an updater program
 install-updater = true
 [workspace.metadata.dist.github-custom-runners]
-aarch64-apple-darwin = "macos-13"
+aarch64-apple-darwin = "macos-15"
 x86_64-apple-darwin = "macos-13"
 x86_64-unknown-linux-gnu = "ubuntu-22.04"
 
